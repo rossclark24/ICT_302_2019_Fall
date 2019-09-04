@@ -16,11 +16,11 @@ This syllabus may be updated prior to and throughout the semester by Dr. Greenha
 
 ## Response Time
 
-From Monday to Friday, I work to respond to all emails (and Slack messages, GitHub pull requests, etc.) within 24 hours. I am slower to respond on weekends and may not get back to you until Monday. Most of your assessments are due on Sundays, so please keep this in mind! In return, I ask that you check Canvas, Slack, and other class platforms on a regular basis and that you respond to my messages within 48 hours.
+From Monday to Friday, I work to respond to all emails (and Slack messages, GitHub pull requests, etc.) within 24 hours. I may be slower to respond on weekends and may not be able to get back to you until Monday. Most of your assessments will be due on Sundays, so please keep this in mind! In return, I ask that you check Canvas, Slack, and other class platforms on a regular basis and that you respond to my messages within 48 hours.
 
-## Office Hours
+# Office Hours
 
-In my office or on Zoom:
+##In my office or on Zoom:
 
 - Monday, 1pm to 3pm
 - Tuesday, 1pm to 3pm
@@ -83,11 +83,11 @@ There are no formal prerequisites for this course.
 
 The following “I can” statements will serve as guiding objectives for this course and its assessments. By the end of the semester, you should feel comfortable making each statement about yourself and be able to back up that statement with your performance on course activities and assessments.
 
-- I can identify and define key concepts in (web) content management.
-- I can describe and compare content management systems.
-- I can manage content using established workflows.
-- I can identify and employ technologies related to content management.
-- I can find and use resources for self-directed learning.
+- **I can** identify and define key concepts in (web) content management.
+- **I can** describe and compare content management systems.
+- **I can** manage content using established workflows.
+- **I can** identify and employ technologies related to content management.
+- **I can** find and use resources for self-directed learning.
 
 ## Required Course Materials
 
@@ -95,7 +95,7 @@ You are not required to buy a textbook for this class; however, much of my lectu
 
 Over the course of the semester, you will be learning about a number of free resources that you can use to learn about content management systems.
 
-Furthermore, you will work together as a class to use what you learn from those resources (and other course activities) to write a content management systems guidebook that you can use as a reminder and reference after the semester has ended.
+Furthermore, you will work together as a class to use what you learn from those resources (and other course activities) to write a content management systems guidebook that you can use as a reference after the semester has ended.
 
 ## Course Policies
 
