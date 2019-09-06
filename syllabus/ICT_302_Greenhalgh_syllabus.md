@@ -247,7 +247,7 @@ Create your own repository in GitHub, set it to private, and add me (username: [
 
 #### Introductory Web Page (2 points; due 8 September 2019)
 
-Create a new, public GitHub repository. Add an HTML file in your GitHub repository that introduces you to the rest of the class. Include a picture that says something about you (it doesn't need to be you if you're concerned about privacy), and share enough information that we can get to know you some (but remember that this page will be public). Use at least two HTML elements and include at least two CSS (or other) stylings. After creating the page, link to the file as a Canvas submission. You will receive 1 point for for creating a web page that includes a picture and an introduction, and 1 point for using at least two HTML elements and including at least two CSS (or other) stylings.
+Create a new, public GitHub repository. Add an HTML file in your GitHub repository that introduces you to the rest of the class. Include a picture that says something about you (it doesn't need to be you if you're concerned about privacy), and share enough information that we can get to know you some (but remember that this page will be public). Use at least two HTML elements and include at least two CSS stylings. After creating the page, link to the file as a Canvas submission. You will receive 1 point for for creating a web page that includes a picture and an introduction, and 1 point for using at least two HTML elements and including at least two CSS stylings.
 
 #### Hugo Tinkering Report (2 points; due 29 September 2019)
 
