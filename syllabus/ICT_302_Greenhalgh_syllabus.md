@@ -247,7 +247,7 @@ Create your own repository in GitHub, set it to private, and add me (username: [
 
 #### Introductory Web Page (2 points; due 8 September 2019)
 
-Use GitHub Pages to create a simple web page that introduces you to the rest of the class. Include a picture that says something about you (it doesn't need to be you if you're concerned about privacy), and share enough information that we can get to know you some (but remember that your GitHub Page will be public). Use at least two HTML elements and include at least two CSS stylings. Link to the page as a Canvas submission. You will receive 1 point for for creating a web page that includes a picture and an introduction, and 1 point for using at least two HTML elements and including at least two CSS stylings.
+Create a new, public GitHub repository. Add an HTML file in your GitHub repository that introduces you to the rest of the class. Include a picture that says something about you (it doesn't need to be you if you're concerned about privacy), and share enough information that we can get to know you some (but remember that this page will be public). Use at least two HTML elements and include at least two CSS (or other) stylings. After creating the page, link to the file as a Canvas submission. You will receive 1 point for for creating a web page that includes a picture and an introduction, and 1 point for using at least two HTML elements and including at least two CSS (or other) stylings.
 
 #### Hugo Tinkering Report (2 points; due 29 September 2019)
 
@@ -307,16 +307,13 @@ Using guidelines presented in class, identify and explore three different websit
 ### Monday, 2 September:
 - **Academic Holiday: No Class**
 ### Wednesday, 4 September (Learn/Explore):
-- **before class**, read the [Content](https://flyingsquirrelbook.com/glossary/term/content/) entry in the Flying Squirrel CMS Glossary
-- **before class**, read the [Content (media)](https://en.wikipedia.org/wiki/Content_(media)) entry on Wikipedia
 - attend lecture on content
-- learn about [GitHub Pages](https://pages.github.com/)
-- learn about HTML
-- learn about CSS
-- introduce *Introductory Web Page* Proof of Concept
 
 
 ### Friday, 6 September (Create):
+- introduce *Introductory Web Page* Proof of Concept
+- learn about HTML
+- learn about CSS
 - work on *Introductory Web Page* Proof of Concept
 
 ### Sunday, 8 September (Submit):
@@ -327,9 +324,12 @@ Using guidelines presented in class, identify and explore three different websit
 ## Week 3: Content Management
 
 ### Monday, 9 September (Learn):
+
+- **before class**, read the [Content](https://flyingsquirrelbook.com/glossary/term/content/) entry in the Flying Squirrel CMS Glossary
+- **before class**, read the [Content (media)](https://en.wikipedia.org/wiki/Content_(media)) entry on Wikipedia
 - **before class**, read the [Content Management](https://flyingsquirrelbook.com/glossary/term/content-management/) entry in the Flying Squirrel CMS Glossary.
 - **before class**, read the [Workflow](https://flyingsquirrelbook.com/glossary/term/workflow/) entry in the Flying Squirrel CMS Glossary.
-- attend lecture on content management
+- attend lecture on content and content management
 - attend lecture on teams and workflows
 - attend lecture on external integrators
 
