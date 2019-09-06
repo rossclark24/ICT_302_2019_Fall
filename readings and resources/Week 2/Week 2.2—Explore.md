@@ -1,7 +1,8 @@
 # Week 1.2—Explore
 
-## what is content? (15:00 to 15:10)
+## revisit course syllabus (15:00 to 15:50)
 
-- see slides
-
-## learn about GitHub Pages
+- revisit forking and cloning a GitHub repository
+- go over course syllabus
+- discuss pull requests in GitHub
+- answer syllabus questions
