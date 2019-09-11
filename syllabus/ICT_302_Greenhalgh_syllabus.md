@@ -107,7 +107,9 @@ This course is highly collaborative and flexible, and the "master" syllabus for 
 
 #### Technology Requirements
 
-Minimum technical requirements for UK courses and suggested hardware, software, and internet connections are available at [ITS Student Hardware & Software Guidelines](http://www.uky.edu/its/student-hardware-software-guidelines).
+Minimum technical requirements for UK courses and suggested hardware, software, and internet connections
+
+ are available at [ITS Student Hardware & Software Guidelines](http://www.uky.edu/its/student-hardware-software-guidelines).
 
 This class is highly focused and dependent on a number of Web technologies, and you are expected to bring a laptop or tablet to class that will permit you to fully participate in class activities.
 
@@ -337,8 +339,8 @@ Using guidelines presented in class, identify and explore three different websit
 - workflow-focused speed introductions
 - learn about [Slack](https://slack.com/)
 - join ICT 302 Slack workspace
-- learn about [Trello](https://trello.com)
-- join ICT 302 Trello board
+- learn about [ClickUp](https://clickup.com)
+- join ICT 302 Trello space
 - learn about [Toggl](https://toggl.com)
 - join ICT 302 Toggl group
 
