@@ -340,9 +340,7 @@ Using guidelines presented in class, identify and explore three different websit
 - learn about [Slack](https://slack.com/)
 - join ICT 302 Slack workspace
 - learn about [ClickUp](https://clickup.com)
-- join ICT 302 Trello space
-- learn about [Toggl](https://toggl.com)
-- join ICT 302 Toggl group
+- join ICT 302 ClickUp space
 
 ### Friday, 13 September (Create):
 - **Last Day to Drop**
