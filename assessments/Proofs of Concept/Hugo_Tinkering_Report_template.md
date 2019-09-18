@@ -5,7 +5,7 @@
 
 # What Changes Did You Make?
 
-> Use this section to describe what changes you made to the content and presentation of the class Hugo website during the Week 4 and Week 5 Explore and Create classes. You can also use this section to discuss what you would have liked to change but couldn't quite figure out.
+> Use this section to describe what changes you made to the content and presentation of the class Hugo website during the Week 4 and Week 5 Explore and Create classes (and during your own time). You can also use this section to discuss what you would have liked to change but couldn't quite figure out.
 
 # What Did You Learn?
 
