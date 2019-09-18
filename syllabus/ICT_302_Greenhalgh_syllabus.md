@@ -366,7 +366,7 @@ Using guidelines presented in class, identify and explore three different websit
 
 ### Wednesday, 18 September (Explore):
 - learn about [Hugo](https://gohugo.io/)
-- introduce *Hugo Report* Proof of Concept
+- introduce *Hugo Tinkering Report* Proof of Concept
 - join [ICT_302_Hugo](https://github.com/greenhas/ICT_302_Hugo) repository as a contributor
 - explore modifying content on [class Hugo website](https://unruffled-kepler-b32175.netlify.com/)
 
