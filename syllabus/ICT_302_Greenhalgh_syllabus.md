@@ -383,6 +383,7 @@ Using guidelines presented in class, identify and explore three different websit
 ### Monday, 23 September (Learn):
 - **before class**, read the [Presentation](https://flyingsquirrelbook.com/glossary/term/presentation/) entry in the Flying Squirrel CMS Glossary
 - attend lecture on content vs. presentation
+	- compare [template](https://github.com/greenhas/ICT_302_Hugo/blob/master/themes/hugo-coder/layouts/posts/single.html) to [content](https://raw.githubusercontent.com/greenhas/ICT_302_Hugo/master/content/posts/2019-01-16-Currently-responding.md) to [post](https://unruffled-kepler-b32175.netlify.com/posts/2019-01-16-currently-responding/).
 
 ### Wednesday, 25 September (Explore):
 - explore modifying presentation on [class Hugo website](https://unruffled-kepler-b32175.netlify.com/)
