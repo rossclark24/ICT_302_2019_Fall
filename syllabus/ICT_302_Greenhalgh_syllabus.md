@@ -387,6 +387,8 @@ Using guidelines presented in class, identify and explore three different websit
 
 ### Wednesday, 25 September (Explore):
 - explore modifying presentation on [class Hugo website](https://unruffled-kepler-b32175.netlify.com/)
+	- explore [theme files](https://github.com/greenhas/ICT_302_Hugo/tree/master/themes/hugo-coder)
+	- explore [Hugo Theme directory](https://themes.gohugo.io/)
 
 ### Friday, 27 September (Create):
 - use [class Hugo website](https://unruffled-kepler-b32175.netlify.com/) to start laying out the **content** and **presentation** of the *CMS Guidebook*
