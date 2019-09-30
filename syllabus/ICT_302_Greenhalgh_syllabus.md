@@ -20,7 +20,7 @@ From Monday to Friday, I work to respond to all emails (and Slack messages, GitH
 
 # Office Hours
 
-##In my office or on Zoom:
+In my office or on Zoom:
 
 - Monday, 1pm to 3pm
 - Tuesday, 1pm to 3pm
@@ -387,6 +387,8 @@ Using guidelines presented in class, identify and explore three different websit
 
 ### Wednesday, 25 September (Explore):
 - explore modifying presentation on [class Hugo website](https://unruffled-kepler-b32175.netlify.com/)
+	- explore [theme files](https://github.com/greenhas/ICT_302_Hugo/tree/master/themes/hugo-coder)
+	- explore [Hugo Theme directory](https://themes.gohugo.io/)
 
 ### Friday, 27 September (Create):
 - use [class Hugo website](https://unruffled-kepler-b32175.netlify.com/) to start laying out the **content** and **presentation** of the *CMS Guidebook*
@@ -404,6 +406,7 @@ Using guidelines presented in class, identify and explore three different websit
 - **before class**, read the [Introduction](https://easywpguide.com/wordpress-manual/introduction/) to the EasyWPGuide and visit the examples it links to
 - **before class**, watch the [How to Start a Blog in 2019 (Step by Step)](https://www.youtube.com/watch?time_continue=5&v=hCxIyl3vkLU) from [wpbeginner](https://www.wpbeginner.com)
 - attend lecture about WordPress
+	- look at WordPress use in the [2020 presidential election](https://en.wikipedia.org/wiki/2020_United_States_presidential_election)
 
 ### Wednesday, 2 October (Explore):
 - explore [class WordPress website](https://sised.is.uky.edu/ict302wp/)
@@ -428,8 +431,7 @@ Using guidelines presented in class, identify and explore three different websit
 - introduce *Content Management System Comparison* Proof of Concept
 
 ### Wednesday, 9 October (Explore):
-- attend presentation by local WordPress professional
-- learn about local WordPress resources
+- learn about (local) WordPress resources
 
 ### Friday, 11 October (Create):
 - continue work on *CMS Guidebook*
