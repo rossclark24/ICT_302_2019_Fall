@@ -430,8 +430,7 @@ Using guidelines presented in class, identify and explore three different websit
 - introduce *Content Management System Comparison* Proof of Concept
 
 ### Wednesday, 9 October (Explore):
-- attend presentation by local WordPress professional
-- learn about local WordPress resources
+- learn about (local) WordPress resources
 
 ### Friday, 11 October (Create):
 - continue work on *CMS Guidebook*
