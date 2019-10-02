@@ -411,6 +411,7 @@ Using guidelines presented in class, identify and explore three different websit
 ### Wednesday, 2 October (Explore):
 - explore [class WordPress website](https://sised.is.uky.edu/ict302wp/)
 - set up accounts on [class WordPress website](https://sised.is.uky.edu/ict302wp/)
+	- look over [user roles](https://en.support.wordpress.com/user-roles/) in a WordPress site
 - discuss account roles for [class WordPress website](https://sised.is.uky.edu/ict302wp/)
 
 ### Friday, 4 October (Create):
