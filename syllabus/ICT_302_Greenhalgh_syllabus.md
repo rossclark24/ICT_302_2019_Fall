@@ -433,6 +433,17 @@ Using guidelines presented in class, identify and explore three different websit
 
 ### Wednesday, 9 October (Explore):
 - learn about (local) WordPress resources
+	1. [WordPress Codex](https://codex.wordpress.org/Main_Page) and [WordPress Support](https://en.support.wordpress.com/)
+	2. [EasyWPGuide](https://easywpguide.com/) and [WPBeginner](https://www.wpbeginner.com/)
+	3. [WordPress Development StackExchange](https://wordpress.stackexchange.com/) and [WordPress subreddit](https://www.reddit.com/r/Wordpress/)
+	4. [Central KY WordPress Bloggers and Geeks](https://www.meetup.com/Central-KY-WordPress-Users/), [WordPress Louisville](https://www.meetup.com/WordPress-Meetup-Louisville/) and [Cincinnati WordPress Meetup](https://www.meetup.com/Cincinnati-WordPress-Meetup/) 
+		
+- discuss as a class for each resource:
+	- what is this resource?
+	- how does the resource work?
+	- what are the strengths and weaknesses of the resource?
+	- what might you use this resource for?
+	- (how) could you answer your question with this resource?
 
 ### Friday, 11 October (Create):
 - continue work on *CMS Guidebook*
