@@ -439,11 +439,11 @@ Using guidelines presented in class, identify and explore three different websit
 	4. [Central KY WordPress Bloggers and Geeks](https://www.meetup.com/Central-KY-WordPress-Users/), [WordPress Louisville](https://www.meetup.com/WordPress-Meetup-Louisville/) and [Cincinnati WordPress Meetup](https://www.meetup.com/Cincinnati-WordPress-Meetup/) 
 		
 - discuss as a class for each resource:
-	- what is this resource?
-	- how does the resource work?
-	- what are the strengths and weaknesses of the resource?
-	- what might you use this resource for?
-	- (how) could you answer your question with this resource?
+	- what are these resources?
+  	- how do the resources work?
+	- what are the strengths and weaknesses of these resources?
+ 	- what might you use these resources for?
+ 	- (how) could you answer your question with these resources?
 
 ### Friday, 11 October (Create):
 - continue work on *CMS Guidebook*
