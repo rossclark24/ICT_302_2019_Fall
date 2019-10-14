@@ -457,6 +457,7 @@ Using guidelines presented in class, identify and explore three different websit
 
 ### Monday, 14 October (Learn):
 - attend lecture on other Content Management Systems
+	- fill out [collaborative Google Slides](https://docs.google.com/presentation/d/15MkSNgrF8QpvI15Bxt3J1iImq7VYWfwE-pprRz6x9FQ/edit#slide=id.g6345098561_0_54)
 
 ### Wednesday, 16 October (Explore):
 - explore other Content Management Systems
