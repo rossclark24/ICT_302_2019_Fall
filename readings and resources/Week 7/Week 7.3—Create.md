@@ -9,6 +9,8 @@
 
 ## review Mid-Semester Written Agreement (15:05 to 15:20)
 
+- remember that everyone should leave with an assignment!
+
 - repeat questions for each group
   - what have you been doing to work toward the CMS Guidebook?
   - what you will be doing to work toward the CMS Guidebook?

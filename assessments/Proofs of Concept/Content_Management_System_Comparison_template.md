@@ -5,8 +5,8 @@
 
 # Similarities
 
-> Use this section to describe what Hugo, WordPress, and the CMS you have chosen have in common. Refer back to specific concepts from class to strengthen your comparison.
+> Use this section to describe what Hugo, WordPress, and the CMS you have chosen have in common. Refer back to specific concepts from class to strengthen your comparison (for example, consider "content", "presentation", and the concepts in the Week 7.1 slides).
 
 # Differences
 
-> Use this section to describe how Hugo, WordPress, and the CMS you have chosen are different from each other. Refer back to specific concepts from class to strengthen your comparison.
+> Use this section to describe how Hugo, WordPress, and the CMS you have chosen are different from each other. Refer back to specific concepts from class to strengthen your comparison (for example, consider "content", "presentation", and the concepts in the Week 7.1 slides).
