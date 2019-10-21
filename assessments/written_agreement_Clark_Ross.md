@@ -1,20 +1,20 @@
-# Instructions
-1. Copy this document and rename it, replacing "template" with your last name, an underscore, and your first name (for example, mine would end up being `written_assessment_Greenhalgh_Spencer`
-2. Fill out the sections below; you do not need to write a lot, but you do need to be specific. You can delete the instructions in blockquote (the text beginning with `>`) after you fill out each section. You will earn half a point for each prompt that you respond to and an additional half a point for each prompt where you provide specific details.
-3. Delete this instructions section and replace it with your name.
+# Ross Clark
 
 # What Is Being Done?
 
-> Use this section to describe the work that you are committing to do so that you and your classmates will have a dependable reference guide to CMSs at the end of the semester. As much as possible, try to describe commitments individually, as separate tasks, rather than as a general responsibility.
+The work I plan on doing for the CMS guidebook, as a developer, will be to explain to the user how to:
+  1) Choose a theme
+  2) Create variations of the current theme to further customize site such as Font, Layout, etc.
+  3) Manage Plug-ins and how to appropriatley implement them
 
 # When Is It Being Done?
 
-> Use this section to describe when you will begin each of your commitments, when you will complete each of them by, and (if appropriate), how much time you expect to spend on each of them.
+I will begin the process of creating an outline of these specific things starting Monday October 21, 2019. I expect it to take about a couple weeks to finish because the Plug-ins part of the guidebook will require qutie a bit of work. The first two parts shouldn't take but a couple days to complete each.
 
 # How Will It Be Evaluated?
 
-> The colleague that you name below will be assessing your work throughout the semester with a total of eight points. Describe the standards that your colleague should use and the considerations they should make when deciding how many of those points you will earn.
+Use the standard of someone who doens't necesarily know the developer side to a CMS or someone who hasn't particularly worked with a CMS. The idea behind my Guidbook is to help someone who has had little to no experience with a CMS. If it is accurate and easily followed, that should be a cinsistent standard to base your thoughts on.
 
 # Who Will Evaluate It?
 
-> Name a colleague in the class (not me!) whom you feel is in a good position to evaluate your work. Referencing your class organization and workflows, describe why you feel that colleague is best suited to evaluate your work at the end of the semester.j
+William Jones will be evaluating my work. To my knowledge, I don't think he's in my developer group, so that helps because he won't necessarily be super in tune with how the CMS works on the developer side of things. He's also familiar with a CMS which will allow him to accurately evaluate my work because he should know what works and what doesn't.
